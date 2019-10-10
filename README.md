@@ -3,6 +3,6 @@
   
   #### PS. 自动更新 import 路径设置
   vscode->设置->用户设置
-  `"typescript.updateImportsOnFileMove.enabled": "prompt"`
+  `"typescript.updateImportsOnFileMove.enabled": "always"`
   
 **Enjoy!**
